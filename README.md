@@ -75,7 +75,7 @@ sudo python3 sniffer.py --src 192.168.1.10 --dst-port 443 --count 100 --visualiz
 
 ## 👨‍💻 Author
 
-Developed by [Your Name](https://github.com/your-username)  
+Developed by Saksham Saksham   
 Second-year Cybersecurity Student | Passionate about Python, Networking, and Blue Teaming 🛡️
 
 ---
